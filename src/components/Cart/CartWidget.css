@@ -1,0 +1,17 @@
+.div-cart{
+    background-color: white;
+    border-radius: 60px;
+    margin-right: 5rem;
+    padding: 1rem ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+
+.icon-Cart{
+    color: black;
+    background-color: white;
+}
+
